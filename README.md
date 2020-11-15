@@ -1,2 +1,2 @@
-# DataAnalysis-Python
-A repo to contain jupiter notebooks for data analysis with python
+# Data_Analytics-Python
+A repo to contain jupiter notebooks and other python scripts for data analysis with python
